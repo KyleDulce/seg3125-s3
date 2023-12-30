@@ -1,0 +1,17 @@
+#agentCards {
+    padding-left: 21rem;
+    padding-right: 21rem;
+}
+
+.largeBtn {
+    font-size: x-large;
+}
+
+.mainBackground {
+    padding-bottom: 2rem;
+}
+
+.secondaryBackground {
+    background-color: whitesmoke;
+    padding-bottom: 2rem;
+}

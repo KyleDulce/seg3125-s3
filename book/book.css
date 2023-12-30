@@ -1,0 +1,20 @@
+.shortText {
+    max-width: 500px;
+}
+
+.superShortText {
+    max-width: 150px;
+}
+
+#form-object > div {
+    margin-top: 2rem;
+}
+
+.form-check-input:checked {
+    background-color: #001D3D;
+    border-color: #001D3D;
+}
+
+#ErrorMessage {
+    color: red;
+}

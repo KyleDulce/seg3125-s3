@@ -1,0 +1,113 @@
+#Alert_Bar {
+    background-color: #ff6666;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#footer{
+    background-color: #000814;
+}
+
+#attributions {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 2rem;
+}
+
+#attributions > * {
+    color: white;
+}
+
+#Alert_Bar > * {
+    margin-bottom: 0px;
+}
+
+#nav-bar {
+    margin-top: 0px;
+}
+
+.nav-item {
+    font-size: 1.15rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading-size-1 {
+    font-size: 2.25rem;
+}
+
+#header-logo {
+    margin-left: 25px; 
+    margin-right: 25px;
+}
+
+#hours-div > p {
+    margin-left: 1rem;
+}
+
+.heading-line {
+    width: 130px;
+    height: 5px !important;
+    margin: auto;
+    color: #FFD400;
+    opacity: 100%;
+}
+
+/*FONTS*/
+.font-title {
+    font-family: 'Joan', serif;
+}
+
+.font-other {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*COLORS*/
+
+.color-primary-1 {
+    color: #000814;
+}
+
+.color-primary-2 {
+    color: #001D3D;
+}
+
+.color-primary-3 {
+    color: #003566;
+}
+
+.color-secondary-1 {
+    color: #FFC300;
+}
+
+.color-secondary-2 {
+    color: #FFD400;
+}
+
+.color-white {
+    color: white;
+}
+
+.color-background-primary-1 {
+    background-color: #000814;
+    border-color: #000814;
+}
+
+.color-background-primary-2 {
+    background-color: #001D3D;
+    border-color: #001D3D;
+}
+
+.color-background-primary-3 {
+    background-color: #003566;
+    border-color: #003566;
+}
+
+.color-background-secondary-1 {
+    background-color: #FFC300;
+    border-color: #FFC300;
+}
+
+.color-background-secondary-2 {
+    background-color: #FFD400;
+    border-color: #FFD400;
+}
